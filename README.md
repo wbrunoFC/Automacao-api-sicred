@@ -8,7 +8,7 @@
 ```
 node -v
 ```
-- [x] [Baixar repositório](https://github.com/wbrunoFC/automacao-webMotors.git)
+- [x] [Baixar repositório](https://github.com/wbrunoFC/Automacao-api-sicred)
 - [x] Excute o comando para baixar as dependencias do projeto: 
 ```
 npm install
