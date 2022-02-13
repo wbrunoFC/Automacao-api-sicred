@@ -24,5 +24,5 @@ npm run cy:inerface
 ```
 - [x] Executar testes headless:
 ```
-npm run cy:run
+npm run cy:headless
 ```
