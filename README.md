@@ -26,3 +26,7 @@ npm run cy:inerface
 ```
 npm run cy:headless
 ```
+- [x] Executar dashboard report:
+```
+allure generate allure-results --clean -o allure-report
+```
