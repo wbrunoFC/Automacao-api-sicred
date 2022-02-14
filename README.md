@@ -13,10 +13,6 @@ node -v
 ```
 npm install
 ```
-- [x] Instalar o Cypress:
-```
-npm install cypress --save-dev
-```
 ### Executar projeto
 - [x] Executar testes via interface:
 ```
